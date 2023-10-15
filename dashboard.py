@@ -103,7 +103,7 @@ st.pyplot(fig)
 
 
 # workingday/weekend performance
-st.subheader("Workingday & Weekend/Holiday performance each hour")
+st.subheader("Workingday & Weekend/Holiday performances each hour")
 
 fig, ax = plt.subplots(nrows=1, ncols=2, figsize=(35, 15))
 
